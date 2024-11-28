@@ -1,1 +1,2 @@
 # Mountain_Car_Game_Using_ReinforcementLearning
+The Mountain Car game is a reinforcement learning problem where an underpowered car must build momentum to reach the top of a hill. The agent can choose three actions: accelerate left, accelerate right, or do nothing. The challenge is to find the optimal sequence of actions to reach the flag while balancing speed and strategy. Through interaction with the environment, the agent learns by receiving rewards or penalties, aiming to maximize its cumulative reward by successfully reaching the goal.
